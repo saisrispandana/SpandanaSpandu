@@ -16,6 +16,8 @@ public class SimpleInterest {
 	        scan.close();
 	        sinterest = (p * r * t) / 100;
 	        System.out.print("Simple Interest is: " +sinterest);
+                System.out.println("Successfully Ended");
+
 	}
 
 }
