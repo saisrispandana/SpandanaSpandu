@@ -28,6 +28,7 @@ public class Prime {
 	       System.out.println("Prime numbers from 1 to 20 are :");
 	       System.out.println(primeNumbers);
 	       System.out.println("Ended");
+               System.out.println("Program Successfully Executed");
 	       
 	}
 
