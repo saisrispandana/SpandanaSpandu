@@ -15,6 +15,7 @@ public class Fibnociee {
 		  n2=n3;    
 		 }    
 		System.out.println("Checking for commits");
+                System.out.println("Successfully Ended feb series");
 	}
 
 }
